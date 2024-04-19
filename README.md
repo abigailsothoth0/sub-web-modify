@@ -5,7 +5,7 @@
 ### 使用方法：
 建议使用Docker一键部署:
 ```
-docker run -d --restart unless-stopped --privileged=true -p 8090:80 --name sub-web-modify youshandefeiyang/sub-web-modify
+docker run -d --restart unless-stopped --privileged=true -p 8090:80 --name sub-web-modify abigailsothoth/sub-web-modify
 ```
 访问地址举例:
 ```
