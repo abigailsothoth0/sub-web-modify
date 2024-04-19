@@ -494,7 +494,7 @@ export default {
         remoteConfig: [
           {
             label: "自制",
-             options:[
+             options: [
               {
                 label: "默认",
                 value: "https://raw.githubusercontent.com/abigailsothoth0/clash/main/clash%20noauto%20HoYoverse.ini"
