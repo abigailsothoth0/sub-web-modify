@@ -494,7 +494,7 @@ export default {
         ],
         remoteConfig: [
           {
-            label: "自制"
+            label: "自制",
              options:[
               {
                 label: "默认",
