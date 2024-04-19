@@ -500,7 +500,7 @@ export default {
                 value: "https://raw.githubusercontent.com/abigailsothoth0/clash/main/clash%20noauto%20HoYoverse.ini"
               }
               ]
-          }
+          },
           {
             label: "通用",
             options: [
